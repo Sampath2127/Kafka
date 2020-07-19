@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3672a1e0-ae83-4ec2-878b-d0b8df32c564" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ekgk7bHJaNGCR5SefS7KnSTBD1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.SpecificRecordClass">
+    <configuration name="GenericExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lovetocode.avro.generic.GenericExamples" />
+      <module name="KafkaAvroData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lovetocode.avro.specific.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpecificRecordClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lovetocode.avro.specific.SpecificRecordClass" />
+      <module name="KafkaAvroData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lovetocode.avro.specific.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpecificRecordClass" />
+        <item itemvalue="Application.GenericExamples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3672a1e0-ae83-4ec2-878b-d0b8df32c564" name="Default Changelist" comment="" />
+      <created>1594871144590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594871144590</updated>
+      <workItem from="1594871147649" duration="85000" />
+      <workItem from="1594871303368" duration="1324000" />
+      <workItem from="1594873660950" duration="2838000" />
+      <workItem from="1595113743377" duration="6593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595113878317">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/-1920.-126.1920.1160@0.0.1280.680" timestamp="1595113878317" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1594873578581">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680/-1920.-126.1920.1160@0.0.1280.680" timestamp="1594873578581" />
+    <state width="1237" height="135" key="GridCell.Tab.0.bottom" timestamp="1595131095803">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="135" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.-126.1920.1160@0.0.1280.680" timestamp="1595131095803" />
+    <state width="1237" height="135" key="GridCell.Tab.0.center" timestamp="1595131095801">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="135" key="GridCell.Tab.0.center/0.0.1280.680/-1920.-126.1920.1160@0.0.1280.680" timestamp="1595131095801" />
+    <state width="1237" height="135" key="GridCell.Tab.0.left" timestamp="1595131095801">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="135" key="GridCell.Tab.0.left/0.0.1280.680/-1920.-126.1920.1160@0.0.1280.680" timestamp="1595131095801" />
+    <state width="1237" height="135" key="GridCell.Tab.0.right" timestamp="1595131095802">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="135" key="GridCell.Tab.0.right/0.0.1280.680/-1920.-126.1920.1160@0.0.1280.680" timestamp="1595131095802" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1594873604078">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/-1920.-126.1920.1160@0.0.1280.680" timestamp="1594873604078" />
+    <state x="362" y="82" width="540" height="524" key="StructurePopup" timestamp="1595125156268">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="362" y="82" width="540" height="524" key="StructurePopup/0.0.1280.680/-1920.-126.1920.1160@0.0.1280.680" timestamp="1595125156268" />
+    <state x="347" y="73" width="587" height="534" key="find.popup" timestamp="1594874248114">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="347" y="73" width="587" height="534" key="find.popup/0.0.1280.680/-1920.-126.1920.1160@0.0.1280.680" timestamp="1594874248114" />
+    <state x="507" y="207" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1594876380037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="507" y="207" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1280.680/-1920.-126.1920.1160@0.0.1280.680" timestamp="1594876380037" />
+  </component>
+</project>

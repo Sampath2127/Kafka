@@ -1,0 +1,5 @@
+com\lovetocode\schema\Customer$Builder.class
+com\lovetocode\schema\Customer.class
+com\lovetocode\avro\generic\GenericExamples.class
+com\lovetocode\avro\specific\SpecificRecordClass.class
+com\lovetocode\schema\Customer$1.class
