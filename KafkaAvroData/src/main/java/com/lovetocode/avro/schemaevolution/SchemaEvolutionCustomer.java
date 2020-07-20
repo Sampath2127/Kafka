@@ -27,6 +27,8 @@ public class SchemaEvolutionCustomer {
         customerBuilder.setAutomatedEmail (false);
         CustomerV1 customer = customerBuilder.build ();
 
+        System.out.println ("Customer v1 "+customer.toString ());
+
         // write the data of customer object to a file
         final DatumWriter<CustomerV1> datumWriter = new SpecificDatumWriter<> (CustomerV1.class);
         try( DataFileWriter<CustomerV1> dataFileWriter = new DataFileWriter<> (datumWriter) ){
@@ -44,8 +46,9 @@ public class SchemaEvolutionCustomer {
         try( DataFileReader<CustomerV2> dataFileReader = new DataFileReader<> (file, datumReader) ){
             while ( dataFileReader.hasNext () ){
                 CustomerV2 readCustomer = dataFileReader.next ();
-                System.out.println (customer.getFirstName ());
-                System.out.println (customer.getHeight ());
+                System.out.println ("Customer v2 "+readCustomer.toString ());
+//                System.out.println (customer.getFirstName ());
+//                System.out.println (customer.getHeight ());
             }
         } catch ( IOException e ) {
             System.out.println ("Unable to read data from Schema object..!");
