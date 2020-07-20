@@ -10,6 +10,6 @@
     {"name": "height", "type":"float", "doc":"Height at the time of registration in cm" },
     {"name": "weight", "type":"float", "doc":"Weight at the time of registration in kg" },
     {"name": "PhoneNo", "type":["null", "string"], "default": null, "doc": "Phone number optional field"},
-    {"name": "email", "type":"boolean", "default":"true", "doc":"Field indicating if user is subscribed for emails" }
+    {"name": "email", "type":"boolean", "default":true, "doc":"Field indicating if user is subscribed for emails" }
     ]
 }
