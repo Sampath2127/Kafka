@@ -16,7 +16,7 @@ ex : java -jar ~/avro-tools-1.8.2.jar tojson --pretty customer-specific.avro
 ex: java -jar ~/avro-tools-1.8.2.jar getschema customer-specific.avro 
 
 
-Setting up local kafka clusters using docker, use below config for Windows or Mac.
+#Setting up local kafka clusters using docker, use below config for Windows or Mac.
 
 version: '2'
 
